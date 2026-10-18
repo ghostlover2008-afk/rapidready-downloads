@@ -1,3 +1,8 @@
 {
-  "status": "pending-first-release"
+  "appId": "com.OJCmed.Rapidresponsebuddy",
+  "versionCode": 1,
+  "versionName": "1.0",
+  "apkUrl": "https://github.com/ghostlover2008-afk/rapidready-downloads/releases/download/android-v1.0.0-beta.1/RapidReady.apk",
+  "sha256": "421f9d648eeb43e7f69bf35d6c80b3a42e953c2f8e2ba36905bd57ea5163fefb",
+  "notes": "First Android beta. Includes offline app assets, Android Back navigation, touch and scrolling fixes, and update checks suppressed during active emergency sessions. Real-device testing is ongoing."
 }
