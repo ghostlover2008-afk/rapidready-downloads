@@ -1,8 +1,8 @@
 {
   "appId": "com.OJCmed.Rapidresponsebuddy",
-  "versionCode": 2,
-  "versionName": "1.1",
-  "apkUrl": "https://github.com/ghostlover2008-afk/rapidready-downloads/releases/download/android-v1.1.0-beta.2/RapidReady.apk",
-  "sha256": "15094c065bc264abb2482c6279401450e66b6c2e007992066cd3591a9c4c1682",
-  "notes": "Three-column trigger buttons; top-of-page navigation; device-local antibiogram layout; preserved seizure timeline; ACLS medication reminders; saved post-ROSC checklist and summary; updated reversal guidance; compact stroke HINTS+ sheet. Android Back handling and emergency-safe update checks retained. Physical-device QA remains pending. Beta reference only; follow institutional protocols."
+  "versionCode": 3,
+  "versionName": "1.2",
+  "apkUrl": "https://github.com/ghostlover2008-afk/rapidready-downloads/releases/download/android-v1.2.0-beta.3/RapidReady.apk",
+  "sha256": "44042899106b371e4bab67069945d9ed3972bf5618d15ec96aef65e70e8b9343",
+  "notes": "Updated Code Blue flowchart, prior-event reminders, timer limits and Undo, complete clinical timelines, automatic embedded post-ROSC care and tracker guide; compact rhythm graphics; Code Blue clears after 30 minutes of inactivity and RRT after 12 hours. Completed Code Blue history preserved. Android Back handling and emergency-safe update checks retained. Physical-device QA remains pending."
 }
